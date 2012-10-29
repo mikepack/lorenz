@@ -1,6 +1,6 @@
 # Lorenz Attractor
 
-An animated, interactive Lorenz attractor written in C with OpenGL.
+An animated, 3D, interactive Lorenz attractor written in C with OpenGL.
 
 This is an experiment I did a while back, figured I would open source it.
 
